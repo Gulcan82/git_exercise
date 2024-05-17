@@ -1,0 +1,1 @@
+In dieser Datei befindet sich der Code fuer die Suche auf der Karte.
